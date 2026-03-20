@@ -1,34 +1,70 @@
 <div align="center">
-<div align="cetner"><a href="https://www.happen.software"><img height="65" src="https://media.happen.zone/happen/logo-long2.svg"></a></div>
-<h1 align="center">Hi <img width="35" src="https://media.happen.zone/happen/waving.gif">, we're Happen Software</h1>
-<h3 align="center" style="margin:0">Your team of experienced software developers</h3> 
-<h4 align="center" style="margin:0">We have a proven track record of delivering epic world-class business software.</h4>
+  <div><a href="https://www.happen.software"><img height="65" src="https://media.happen.zone/happen/logo-long2.svg" alt="Happen Software"></a></div>
+  <h1 align="center">Hi <img width="35" src="https://media.happen.zone/happen/waving.gif" alt="waving hand">, we're Happen Software</h1>
+  <h3 align="center" style="margin:0">Senior software engineers for core business systems</h3>
+  <h4 align="center" style="margin:0">15+ years of industry experience building robust platforms, integrations, and AI systems for SMEs.</h4>
 </div>
 
 <div align="center">
-<p>Based in Ireland.</p>
-<p>Our team is made up of experienced software developers who are committed to creating custom, epic software solutions for businesses of all sizes. We understand that great software is essential for the success of any business, which is why we put your business and people first. Our trusted solutions are designed to take your business to the next level, and we have a proven track record of delivering results for organizations around the world.</p>
+  <p>Based in Ireland.</p>
+  <p>
+    Happen Software is a team of highly experienced software engineers and architects who build the systems businesses depend on every day.
+    We specialise in core operational software for SMEs - the platforms, workflows, integrations, and reporting systems that sit close to the heart of the business and need to perform reliably.
+  </p>
+  <p>
+    We bring senior technical judgement, disciplined architecture, and years of experience delivering production software in demanding commercial environments.
+  </p>
+  <p>
+    We help SMEs replace spreadsheet-heavy and fragmented processes with robust custom systems that improve visibility, reduce manual work,
+    and create a stronger foundation for growth. Where AI makes sense, we design practical, production-grade implementations that solve specific operational problems.
+  </p>
 </div>
 
 <div align="center">
-  <img  src="https://media.happen.zone/happen/grid-snake.svg" alt="snake" /></a>
+  <img src="https://media.happen.zone/happen/grid-snake.svg" alt="snake" />
 </div>
 
-# Focus Areas
-At Happen Software, we take the time to understand your business, what makes it unique, and apply our expertise to make a difference. Our team of experienced software developers is committed to creating custom, epic software solutions that are trusted by organizations of all sizes around the world. Below are some of our focus areas:
+# What We Do
 
-- 🎨 UI & UX: Our team specializes in creating visually stunning user interfaces and exceptional user experiences that keep your customers coming back for more.
-- 🤖 Artificial Intelligence: We offer AI-powered software solutions that help businesses automate processes, improve decision-making, and drive innovation.
-- 📊 Reporting & Analytics: Our software solutions are designed to help businesses collect, analyze, and interpret data to make informed decisions that drive growth and profitability.
-- 📱 Mobile Apps: We develop custom mobile apps that are optimized for performance, security, and user experience, ensuring that your customers can stay connected with your business on the go.
-- 💻 System Integrations: Our team specializes in integrating software systems to streamline business operations and improve efficiency.
-- 📈 Process Workflows: We help businesses optimize their workflows by developing custom software solutions that automate processes and eliminate bottlenecks.
-- 🔧 Completely Bespoke Solutions: We understand that every business is unique, which is why we specialize in creating completely bespoke software solutions tailored to your specific needs.
+We design and build software that supports real operations, real teams, and real commercial pressure.
+
+- 🧩 **Core Business Platforms**  
+  Bespoke systems built around how your business actually operates — not off-the-shelf compromises.
+
+- 🔗 **Systems Integration & API Engineering**  
+  Secure, reliable integration across CRMs, ERPs, payment platforms, communication tools, and third-party services.
+
+- ⚙️ **Operational Workflows & Governance**  
+  Software that embeds approvals, routing, permissions, and business rules into clean, auditable processes.
+
+- 📊 **Reporting & Operational Visibility**  
+  Custom dashboards, admin tools, and reporting systems that give SMEs the oversight they need to make better decisions.
+
+- 📱 **Web & Mobile Delivery**  
+  High-quality web applications and PWA experiences that work across desktop, tablet, and field environments.
+
+- 🤖 **Practical AI Systems**  
+  AI solutions built to support real business workflows — including extraction, automation, reasoning, and human-in-the-loop review.
+
+- 🚀 **AI Accelerator**  
+  A focused path to production-grade AI delivery, helping businesses move from viable use case to working implementation quickly and with less risk.
+
+- 🏗️ **AI-Ready Architecture**  
+  Software foundations designed to support automation, AI agents, and future operational intelligence from day one.
+
+# Why Teams Work With Us
+
+- Senior engineers, not juniors  
+- 15+ years of real industry experience  
+- Strong track record building core systems for SMEs  
+- Production-first thinking, not experimentation for its own sake  
+- Built for reliability, maintainability, and scale  
+- Clear communication and commercially grounded delivery  
 
 # Contact Us
-Thank you for considering Happen Software for your software needs. To get in touch with us, you can:
 
-- 🌐 Visit our website: https://www.happen.software
-- 📧 Send us an email: hi@happen.software
+If your business needs experienced engineers to build serious software, we should talk.
 
-We look forward to hearing from you!
+- 🌐 https://www.happen.software
+- 🤖 https://www.happen.software/ai-accelerator/
+- 📧 hi@happen.software
