@@ -1,22 +1,22 @@
 <div align="center">
   <div><a href="https://www.happen.software"><img height="65" src="https://media.happen.zone/happen/logo-long2.svg" alt="Happen Software"></a></div>
   <h1 align="center">Hi <img width="35" src="https://media.happen.zone/happen/waving.gif" alt="waving hand">, we're Happen Software</h1>
-  <h3 align="center" style="margin:0">Senior software engineers for core business systems</h3>
-  <h4 align="center" style="margin:0">15+ years of industry experience building robust platforms, integrations, and AI systems for SMEs.</h4>
+  <h3 align="center" style="margin:0">We engineer the systems your business runs on</h3>
+  <h4 align="center" style="margin:0">Engineering operational systems since 2016. Production-grade software and applied AI for established businesses.</h4>
 </div>
 
 <div align="center">
-  <p>Based in Ireland.</p>
+  <p>Based in Ireland, with a distributed team across Ireland and South Africa.</p>
   <p>
-    Happen Software is a team of highly experienced software engineers and architects who build the systems businesses depend on every day.
-    We specialise in core operational software for SMEs - the platforms, workflows, integrations, and reporting systems that sit close to the heart of the business and need to perform reliably.
+    Happen Software is a team of senior engineers and architects who build the operational systems established businesses run on:
+    the platforms, workflows, integrations, and reporting that sit close to the heart of the business and need to perform reliably.
+    We replace spreadsheets, manual processes, and fragmented tools with systems that scale.
   </p>
   <p>
-    We bring senior technical judgement, disciplined architecture, and years of experience delivering production software in demanding commercial environments.
+    Founded in 2016, with 20+ years of founder-led experience delivering production software in commercial environments. We own the work end-to-end.
   </p>
   <p>
-    We help SMEs replace spreadsheet-heavy and fragmented processes with robust custom systems that improve visibility, reduce manual work,
-    and create a stronger foundation for growth. Where AI makes sense, we design practical, production-grade implementations that solve specific operational problems.
+    Where AI fits, we build practical, production-grade implementations for specific operational problems: extraction, automation, reasoning, and human-in-the-loop review.
   </p>
 </div>
 
@@ -24,47 +24,47 @@
   <img src="https://media.happen.zone/happen/grid-snake.svg" alt="snake" />
 </div>
 
-# What We Do
+# What We Build
 
-We design and build software that supports real operations, real teams, and real commercial pressure.
+- 🧩 **Custom Platforms & Portals**
+  Client-facing portals and internal line-of-business applications built around how a business actually operates, consolidating fragmented legacy tools into one platform.
 
-- 🧩 **Core Business Platforms**  
-  Bespoke systems built around how your business actually operates — not off-the-shelf compromises.
+- 🔗 **Systems Integration & API Engineering**
+  Secure connections that sync new software with existing ERP, CRM, payment gateways, and communication tools.
 
-- 🔗 **Systems Integration & API Engineering**  
-  Secure, reliable integration across CRMs, ERPs, payment platforms, communication tools, and third-party services.
+- ⚙️ **Digital Workflows & Governance**
+  Approvals, routing, role-based permissions (RBAC), and business rules embedded into auditable processes.
 
-- ⚙️ **Operational Workflows & Governance**  
-  Software that embeds approvals, routing, permissions, and business rules into clean, auditable processes.
+- 📊 **Operational Visibility**
+  Admin panels and reporting modules built into the application, with oversight of system activity and KPIs without external BI tools.
 
-- 📊 **Reporting & Operational Visibility**  
-  Custom dashboards, admin tools, and reporting systems that give SMEs the oversight they need to make better decisions.
+- 📱 **Universal Access (PWA)**
+  Progressive Web App experiences that work across desktop, tablet, and field environments, online or offline, without App Store friction.
 
-- 📱 **Web & Mobile Delivery**  
-  High-quality web applications and PWA experiences that work across desktop, tablet, and field environments.
+- 🤖 **Practical AI Systems**
+  AI for real business workflows (extraction, automation, reasoning, human-in-the-loop review), delivered as secure, integration-ready endpoints.
 
-- 🤖 **Practical AI Systems**  
-  AI solutions built to support real business workflows — including extraction, automation, reasoning, and human-in-the-loop review.
+- 🏗️ **AI-Ready Architecture**
+  Foundations designed to support automation and AI agents from day one. See our [AI Accelerator](https://www.happen.software/ai-accelerator/) for moving a use case to production.
 
-- 🚀 **AI Accelerator**  
-  A focused path to production-grade AI delivery, helping businesses move from viable use case to working implementation quickly and with less risk.
+# Products We Build
 
-- 🏗️ **AI-Ready Architecture**  
-  Software foundations designed to support automation, AI agents, and future operational intelligence from day one.
+Alongside client work, we build and run our own software:
 
-# Why Teams Work With Us
+- 📋 **[Kanera](https://www.kanera.app)** ([GitHub](https://github.com/happendev/Kanera)): All your team's work, in one place. A fast, polished, source-available project management workspace to plan work, track progress, document context, automate updates, and stay aligned.
+- 🛒 **[Productify.ai](https://www.productify.ai)**: Applied AI for eCommerce product content creation and enrichment at scale.
+- 🛡️ **[KYC Pack](https://www.kycpack.com)**: Streamlined KYC and client onboarding.
 
-- Senior engineers, not juniors  
-- 15+ years of real industry experience  
-- Strong track record building core systems for SMEs  
-- Production-first thinking, not experimentation for its own sake  
-- Built for reliability, maintainability, and scale  
-- Clear communication and commercially grounded delivery  
+# How We Work
 
-# Contact Us
+- Senior engineers, not juniors
+- 20+ years of founder-led engineering experience
+- Production-first: built for reliability, maintainability, and scale
+- Transparent delivery, from design through weekly sprints
+- Every feature mapped to a business objective
+- EU/regional data residency and GDPR-aligned hosting
 
-If your business needs experienced engineers to build serious software, we should talk.
+# Contact
 
 - 🌐 https://www.happen.software
-- 🤖 https://www.happen.software/ai-accelerator/
 - 📧 hi@happen.software
